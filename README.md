@@ -45,7 +45,7 @@ You will use a free, public API for recipe data and implement a varietys of hook
 -  Loading/error states
 
 ### Screenshot
-![alt text ](Mod10-Advance-React\sba-10-recipe-discovery-app\src\Images\Home-Page.png) 
+![alt text ](src\Images\Home-Page.png) 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
