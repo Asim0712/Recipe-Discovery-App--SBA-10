@@ -1,18 +1,17 @@
 # Recipe Discovery App - React
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Thechallenge](#The challenge)
+- [Features](#Features)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [Reflection](#Reflection)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -22,15 +21,28 @@ For this project, we built a client-side “Recipe Discovery” application. Thi
 You will use a free, public API for recipe data and implement a varietys of hooks, state management patterns, and routing solutions to create a feature-rich, single-page application (SPA).
 
 ### The challenge
+- API Data Parsing Complexity
+- State Management 
+ - Synchronizing Context API state with localStorage
+ - Preventing race conditions in favorite recipe updates
+- Routing Complexities
+- UI/UX Challenges
+ - Coordinating multiple simultaneous API calls
+ - Skeleton loading states for recipe cards
+ - Performance on low-end devices
+- Accessibility
+- Error Handling
+ - Comprehensive API error states (rate limits, network issues)
+ - Graceful degradation for missing recipe data
+ - User-friendly error messages
 
-Users should be able to:
-
-- See all countries from the API on the homepage
-- Search for a country using an `input` field
-- Filter countries by region
-- Click on a country to see more detailed information on a separate page
-- Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+Features
+✔️ Category browsing
+✔️ Recipe search functionality
+✔️ Detailed recipe view
+✔️ Favorites management
+✔️ Responsive design
+✔️ Loading/error states
 
 ### Screenshot
 
