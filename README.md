@@ -4,7 +4,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Thechallenge](#The challenge)
+- [The challenge](#the-challenge)
 - [Features](#Features)
 - [Screenshot](#screenshot)
 - [Links](#links)
