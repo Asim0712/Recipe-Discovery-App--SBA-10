@@ -36,17 +36,17 @@ You will use a free, public API for recipe data and implement a varietys of hook
  - Graceful degradation for missing recipe data
  - User-friendly error messages
 
-Features
-✔️ Category browsing
-✔️ Recipe search functionality
-✔️ Detailed recipe view
-✔️ Favorites management
-✔️ Responsive design
-✔️ Loading/error states
+## Features
+- ✔️ Category browsing
+- ✔️ Recipe search functionality
+- ✔️ Detailed recipe view
+- ✔️ Favorites management
+- ✔️ Responsive design
+- ✔️ Loading/error states
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Images\Beef-Recipe.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
